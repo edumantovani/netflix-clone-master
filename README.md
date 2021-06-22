@@ -8,7 +8,7 @@
 
 <h3 align="center">
   Deploy da Aplicação com Git Pages:
-  <a href="https://github.com/edumantovani/netflix-clone-master.git" target="__blank">ACESSE AQUI </p>
+  <a href="https://github.com/edumantovani/netflix-clone-master/" target="__blank">ACESSE AQUI </p>
 </h3>
 
 
