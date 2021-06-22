@@ -1,14 +1,21 @@
+<h1 align="center">
+  Clone Netflix
+</h1>
+
 <p align="center">
-  <a href="https://netflix-clone-dio.netlify.app/" target="_blank">
-    <img 
-         src="https://i.imgur.com/QwNjA7a.jpg" 
-         alt="Portfolio" 
-    />
-  </a>
-  <br />
-  Recriando a Interface do Netflix utilizando HTML, CSS e JavaScript.
+  Projeto desenvolvido para a prática de HTML5, CSS3 e JavaScript digital innovation one
 </p>
 
-<hr />
+<h3 align="center">
+  Deploy da Aplicação com Git Pages:
+  <a href="https://github.com/edumantovani/netflix-clone-master" target="__blank">ACESSE AQUI </p>
+</h3>
 
-- Desafio prático realizado na plataforma [Digital Innovation One](https://web.digitalinnovation.one/home "Digital Innovation One"): [Recriando a Interface do Netflix](https://web.digitalinnovation.one/lab/recriando-a-interface-do-netflix/learning/2069ecdf-36d6-4ad7-87fd-dab5632e722e "Recriando a Interface do Netflix").
+
+<h4 align="center">
+  Status: Finalizado :white_check_mark:
+</h4>
+
+<p align="center">
+  <img src="./img/NETFLIX_CLONE.gif" alt="" width="600px" height="300px">
+</p>
