@@ -17,5 +17,5 @@
 </h4>
 
 <p align="center">
-  <img src="./img/NETFLIX_CLONE.gif" alt="" width="600px" height="300px">
+  <img src="/img/NETFLIX_CLONE.gif" alt="" width="600px" height="300px">
 </p>
